@@ -17,21 +17,21 @@ img
 h1
 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
+    font-size: calc(14px + 4vw);
     color: var(--uncbluebird);
 }
 
 h2
 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: calc(10px + 2vw);
     color: var(--uncdarkgray);
 }
 
 h3
 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: calc(10px + 1.5vw);
     color: var(--uncdarkgray);
 }
 
