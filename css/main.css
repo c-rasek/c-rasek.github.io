@@ -19,6 +19,7 @@ h1
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: calc(14px + 4vw);
     color: var(--uncbluebird);
+    text-align: center;
 }
 
 h2
@@ -45,3 +46,29 @@ a:hover
     color: var(--uncgold);
 }
 
+.centeredpic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer
+{
+    display: block;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.homepagecontent
+{
+    list-style: none;
+    padding-left: 0px;
+    text-align: center;
+}
