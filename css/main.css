@@ -76,3 +76,8 @@ nav
 {
     text-align: center;
 }
+
+.homepagecontent
+{
+    font-size: calc(20px + 1.5vw);
+}
