@@ -60,6 +60,11 @@ table
     margin-right: auto;
 }
 
+.tableformat
+{
+    overflow-x: auto;
+}
+
 footer
 {
     display: block;
