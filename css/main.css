@@ -82,3 +82,12 @@ nav
 {
     font-size: calc(10px + 1.5vw);
 }
+
+iframe
+{
+    margin: 15px;
+    width: 70vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
